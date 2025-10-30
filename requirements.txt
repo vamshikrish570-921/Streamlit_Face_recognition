@@ -1,0 +1,12 @@
+# 100% working combination for Python 3.8 (no dependency errors)
+streamlit==1.22.0
+deepface==0.0.93
+opencv-python-headless==4.8.1.78
+pillow==9.5.0
+tensorflow-cpu==2.10.1
+keras==2.10.0
+numpy==1.23.5
+pandas==2.0.3
+protobuf==3.19.6
+gdown==5.2.0
+tqdm==4.66.5
